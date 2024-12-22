@@ -1,5 +1,6 @@
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100037198926122&ref=xav_ig_profile_web)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdallah_mostafa49/profilecard/?igsh=NGNmcG1pdHVpa2k=-271.15)
-[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=snapchat&logoColor=black)](https://l.instagram.com/?u=https%3A%2F%2Fwww.snapchat.com%2Fadd%2Fabdallah492006%3Fshare_id%3DbGsiCn_6SHyv5wTISSgrnQ%26locale%3Dar_EG%2540numbers%253Dlatn%26fbclid%3DPAZXh0bgNhZW0CMTEAAabiixTHYQxdR7A68SkzwK5IZmwYiUuL_PQKQfPhq_za2IPZk0lk3W1aRao_aem_mcB2TJZZZO8m14pc5lA2iA&e=AT1_W3ElBbS2pdEhdxPJ3HJsftsNxHP2Rnolx71PePH9bR4XnPIxSlsby9TdTbaq5MdvnaKC39PunK54Tx8wJlPtllKCEjjDmeNUaQ)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fwww.tiktok.com%2F%40abdallah_mostafa49%3F_t%3D8plyuAJntmn%26_r%3D1%26fbclid%3DPAZXh0bgNhZW0CMTEAAaa6nVqWam4ZTXvwNflYtLN5nSqoEuf0AI36aMCHv-g-mc3lYYGEqu_ckzE_aem_Geo6jFqO5BBTPx3Osuv9eQ&e=AT2T_-z9mvab6O9Vk-DwxH0Jg9uBt0zU_4Grnkh5CY6_d-HcMaGwXdEMEOUWYHcd2JZH9QCgUidsWDKLP8KDT9rx-bIaVSdB6Qnojg)
+- [Facebook: Abdallah Mostafa](https://www.facebook.com/abdalla.mostafa.545?mibextid=wwXIfr)
+- [Instagram: @abdallah_mostafa49](https://www.instagram.com/abdallah_mostafa49/profilecard/)
+- [LinkedIn: Abdallah Mostafa](https://www.linkedin.com/in/abdallah-mostafa-049779234)
+- [TikTok: @abdallah_mostafa49](https://www.tiktok.com/@abdallah_mostafa49)
+- [Snapchat](https://snapchat.com/t/HznipXBA)
