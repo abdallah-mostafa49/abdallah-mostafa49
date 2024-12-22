@@ -14,32 +14,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/abdallah-mostafa-049779234" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/abdalla.mostafa.545?mibextid=wwXIfr" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="62" height="50" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/abdallah_mostafa49/profilecard/" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="50" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/+201001603997" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="62" height="50" alt="whatsapp logo"  />
-  </a>
-  <a href="https://t.me/abdallah_mostafa49" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="50" alt="telegram logo"  />
-  </a>
-  <a href="https://discord.com/users/abdallah_mostafa49" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
-  </a>
-  <a href="mailto:abdallaheltoriny@gmail.com" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="62" height="50" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Programming languages</h3>
 
 ###
